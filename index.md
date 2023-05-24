@@ -1,8 +1,9 @@
 ---
 layout: cv
-title: Vibhavari Desai's CV
+title: Vibhavari Desai
 ---
 # Vibhavari Desai
+*(she/her pronouns)*
 Independent Researcher, Research Coordinator, Writer.
 
 <div id="webaddress">
