@@ -13,10 +13,16 @@ Independent Researcher, Research Coordinator, Writer.
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+## Contact
+<span id="printPageButton">💌 </span>[vibhavari.desai@gmail.com] (mailto: vibhavari.desai@gmail.com)
+
+<span id="printPageButton">💼 </span>[transformsouthasia.com/meet-our-team] (https://transformsouthasia.com/meet-our-team) 
+
+<span id="printPageButton">🔗 </span>[LinkedIn](https://www.linkedin.com/in/vibhavari-desai-44b8396b/)
 
 ## Currently
 
-Standing on the shoulders of giants
+Research Coordinator at Trans/form South Asia
 
 ### Specialized in
 
@@ -30,33 +36,88 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2021`
+__FLAME University, Pune__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Major: Psychology
+- GPA: 9.00
+- Additional coursework: Children and Young Adult's Literature; Cultures & Communication; Environmental Epidemiology; Evolution & Ecology; Modernity, Colonialism, and the Nation-State; New Literatures in English; Principles of Biological Diversity; Sociology of Family.
 
-- Sizar
+`2016-2018`
+__Podar International School, Nerul__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- AS- and A-Levels
+- Grades: 4 A, 1 B
 
-- Fellow
+`2016`
+__Podar Internation School, Nerul__
 
+- IGCSE
+- Grades: 4 A+, 3 A, 1 B
 
+## Awards and Honours
 
-## Awards
+`2018-2021`
+Dean's Roll of Honour, *FLAME University*, Pune, India
 
-`2012`
-President, *Royal Society*, London, UK
+Merit Scholarship, *FLAME University*, Pune, India
 
-Associate, *French Academy of Science*, Paris, France
+## Work Experience
 
+`November 2022 - present`
+Research Coordinator, *Trans/form South Asia*, India
 
+`September 2022 - present`
+Freelance Research Assistant
+
+`April 2022 - July 2022`
+Editorial Intern, *Language, Literature, and Interdisciplinary Studies (LLIDS)*
+
+`August 2021`
+Reviewer, *repliCATS Project*, University of Melbourne
+
+`May 2020 - July 2020`
+Clinical Intern, *CogniAble*
+
+## Research Experience
+
+`May 2020 - May 2021`
+Research Assistant, *Department of Literary and Cultural Studies, FLAME University*
+Supervisor: Dr. Noorie Baig
+Project: How South Asian Activists Queer the Model Minority Myth: A Critical Oral History Project [PhD dissertation]
+Responsibilities:
+- Reading relevant literature pertaining to diaspora studies, queer studies, and cultural studies
+- Reviewing and correcting interview transcripts
+- Assisting with thematic analysis of interview responses
+- Managing references
+
+`October 2019 - May 2020`
+Research Assistant, *FLAME Scholars Program (FSP), FLAME University*
+Supervisors: Ms. Mrinalini Godara and Dr. Poonam Gandhi
+Project: Jaitapur Nuclear Power Plant Project: Stakeholders' Perceptions and Experiences [FSP Dissertation]
+Responsibilities:
+- Aiding with the literature review
+- Translating official documents, newspaper articles, questionnaires, and audio interviews from Marathi to English and vice-versa
+- Proofreading dissertation chapters
+- Managing references
+
+`September 2019 - September 2020`
+Student Researcher, *Discover Indian Program, FLAME University*
+Supervisor: Ms. Malini Dasari
+Project: Chudiyan: A Study into the Lives of Firozabad's Glass Industry Workers
+- Highlighted the lived experiences and social realities of the artisans
+- Conducted qualitative interviews with the artisans, factory owners and managers, bangle-sellers, and customers
+- Coded qualitative responses and conducted thematic analysis
+- Co-wrote a 60-page report with four other team members
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<div class="item" id="pubs" markdown="1">
+
+<span id="printPageButton">`2022`</span>
+**Desai, V**., Das, M. (23rd August 2022). Opinion: Mental health 'app'solutely matters. *Telangana Today*.[https://telanganatoday.com/opinion-mental-health-appsolutely-matters](https://telanganatoday.com/opinion-mental-health-appsolutely-matters) <span id="printPageButton" style="color:rgb(255, 30, 199)">(https://telanganatoday.com/opinion-mental-health-appsolutely-matters)</span>
+
+</div>
 
 ### Journals
 
