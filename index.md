@@ -115,7 +115,7 @@ Project: Chudiyan: A Study into the Lives of Firozabad's Glass Industry Workers
 <div class="item" id="pubs" markdown="1">
 
 <span id="printPageButton">`2022`</span>
-**Desai, V**., Das, M. (23rd August 2022). Opinion: Mental health 'app'solutely matters. *Telangana Today*.[https://telanganatoday.com/opinion-mental-health-appsolutely-matters](https://telanganatoday.com/opinion-mental-health-appsolutely-matters) <span id="printPageButton" style="color:rgb(255, 30, 199)">(https://telanganatoday.com/opinion-mental-health-appsolutely-matters)</span>
+**Desai, V**., Das, M. (23rd August 2022). Opinion: Mental health 'app'solutely matters. *Telangana Today*. [https://telanganatoday.com/opinion-mental-health-appsolutely-matters] <span id="printPageButton" style="color:rgb(255, 30, 199)">(https://telanganatoday.com/opinion-mental-health-appsolutely-matters)</span>
 
 </div>
 
